@@ -7,3 +7,11 @@ Pushing to github
 =====================
 
 git remote add origin https://github.com/CougarM/GitOnline.git
+
+git push -u origin master
+
+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
+
+/Users/cougarmacdougall/Documents/UoD_ITSD/Year_1/ISD/Week_11
+
+
