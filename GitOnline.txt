@@ -1,0 +1,9 @@
+This is demo on how to push to Github online and pull from github online
+
+git push -u -f origin master
+
+
+Pushing to github
+=====================
+
+git remote add origin https://github.com/CougarM/GitOnline.git
